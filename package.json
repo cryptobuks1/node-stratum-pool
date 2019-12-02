@@ -5,30 +5,21 @@
     "keywords": [
         "stratum",
         "mining",
-        "pool",
-        "server",
-        "poolserver",
-        "bitcoin",
-        "litecoin",
-        "scrypt"
+        "pool"
     ],
-    "homepage": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-yescrypt-0.5",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-yescrypt-0.5/issues"
+        "url": ""
     },
     "license": "GPL-2.0",
-    "author": "Matthew Little",
-    "contributors": [
-        "vekexasia",
-        "TheSeven"
-    ],
+    "author": "",
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-yescrypt-0.5.git"
+        "url": "https://github.com/moyuns-dev/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git",
+        "multi-hashing": "git://github.com/moyuns-dev/node-multi-hashing.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
